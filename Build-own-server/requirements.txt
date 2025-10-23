@@ -1,0 +1,9 @@
+# Core library
+fastmcp
+
+# Optional (for running via HTTP or extended tools)
+uvicorn
+fastapi
+
+# Common utilities (optional but useful)
+pydantic

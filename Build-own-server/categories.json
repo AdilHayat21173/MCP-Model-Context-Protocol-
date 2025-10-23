@@ -1,0 +1,171 @@
+{
+    "electronics": [
+      "smartphones",
+      "laptops",
+      "tablets",
+      "smartwatches",
+      "headphones",
+      "gaming_consoles",
+      "cameras",
+      "accessories",
+      "other"
+    ],
+    "home_appliances": [
+      "refrigerators",
+      "washing_machines",
+      "microwaves",
+      "air_conditioners",
+      "vacuum_cleaners",
+      "water_purifiers",
+      "irons",
+      "other"
+    ],
+    "fashion": [
+      "clothing_men",
+      "clothing_women",
+      "footwear",
+      "bags_wallets",
+      "jewelry_watches",
+      "sunglasses",
+      "other"
+    ],
+    "beauty_personal_care": [
+      "skincare",
+      "haircare",
+      "makeup",
+      "fragrance",
+      "grooming_tools",
+      "wellness_devices",
+      "other"
+    ],
+    "groceries": [
+      "fruits_vegetables",
+      "dairy_bakery",
+      "snacks_beverages",
+      "staples_grains",
+      "frozen_foods",
+      "cleaning_supplies",
+      "other"
+    ],
+    "furniture_home_decor": [
+      "sofas",
+      "beds_mattresses",
+      "tables_chairs",
+      "storage_units",
+      "curtains_rugs",
+      "lighting",
+      "decor_items",
+      "other"
+    ],
+    "toys_games": [
+      "kids_toys",
+      "board_games",
+      "video_games",
+      "educational_toys",
+      "collectibles",
+      "outdoor_toys",
+      "other"
+    ],
+    "sports_fitness": [
+      "gym_equipment",
+      "sportswear",
+      "shoes",
+      "bicycles",
+      "yoga_accessories",
+      "smart_fitness_bands",
+      "other"
+    ],
+    "automotive": [
+      "car_accessories",
+      "bike_accessories",
+      "lubricants",
+      "spare_parts",
+      "tools_equipment",
+      "car_care",
+      "other"
+    ],
+    "books_media": [
+      "books",
+      "ebooks",
+      "magazines",
+      "music_cd_dvd",
+      "movies",
+      "stationery",
+      "other"
+    ],
+    "computers_it": [
+      "desktops",
+      "monitors",
+      "keyboards",
+      "mice",
+      "printers",
+      "network_devices",
+      "storage_drives",
+      "software_licenses",
+      "other"
+    ],
+    "healthcare": [
+      "medicines",
+      "supplements",
+      "medical_devices",
+      "first_aid",
+      "personal_protective",
+      "other"
+    ],
+    "travel_gear": [
+      "luggage",
+      "backpacks",
+      "travel_accessories",
+      "adapters",
+      "travel_pillows",
+      "safety_kits",
+      "other"
+    ],
+    "pet_supplies": [
+      "pet_food",
+      "pet_toys",
+      "pet_grooming",
+      "pet_health",
+      "pet_accessories",
+      "other"
+    ],
+    "smart_home": [
+      "home_assistants",
+      "smart_lights",
+      "smart_switches",
+      "security_cameras",
+      "smart_speakers",
+      "other"
+    ],
+    "office_supplies": [
+      "stationery",
+      "chairs_desks",
+      "organization_tools",
+      "office_electronics",
+      "other"
+    ],
+    "baby_products": [
+      "diapers",
+      "baby_food",
+      "toys",
+      "clothes",
+      "strollers",
+      "care_products",
+      "other"
+    ],
+    "luxury": [
+      "designer_bags",
+      "premium_watches",
+      "luxury_perfumes",
+      "exclusive_jewelry",
+      "collectibles",
+      "other"
+    ],
+    "misc": [
+      "gift_cards",
+      "subscription_boxes",
+      "unlisted_items",
+      "other"
+    ]
+  }
+  
