@@ -2,7 +2,8 @@
 fastmcp==2.12.3
 
 # HTTP stack
-fastapi>=0.116.2,<0.200
+fastapi>=0.116.2,<0.117
+
 uvicorn>=0.30
 
 # Validation
