@@ -1,9 +1,12 @@
-# Core library
-fastmcp
+# Core
+fastmcp==2.12.3
 
-# Optional (for running via HTTP or extended tools)
-uvicorn
-fastapi
+# HTTP stack
+fastapi>=0.116.2,<0.200
+uvicorn>=0.30
 
-# Common utilities (optional but useful)
-pydantic
+# Validation
+pydantic>=2.12,<3
+
+# DB (you import this)
+aiosqlite>=0.19,<1

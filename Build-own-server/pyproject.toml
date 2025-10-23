@@ -5,8 +5,9 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
-    "fastapi>=0.119.1",
-    "fastmcp>=2.12.5",
-    "pydantic>=2.12.3",
-    "uvicorn>=0.38.0",
+    "aiosqlite>=0.19,<1",
+    "fastapi>=0.116.2,<0.200",
+    "fastmcp==2.12.3",
+    "pydantic>=2.12,<3",
+    "uvicorn>=0.30",
 ]
